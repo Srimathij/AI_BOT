@@ -1,2 +1,5 @@
 # AI_BOT
 MY PROJECT IS ABOUT AUTOMATIC BOT WHICH IS RELATED TO GOOGLE ASSISTANT OR AMAZON ALEXA!
+
+
+![image](https://user-images.githubusercontent.com/46951797/110240181-a4a0d300-7f70-11eb-8d5b-acdbd74c611e.png)
